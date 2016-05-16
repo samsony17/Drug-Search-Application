@@ -1,0 +1,8 @@
+python 3 example:
+
+In order to run make sure you have pymongo installed as a python library
+then change your working directory into the folder and run the command:
+python3 dbutilsbafedxml.py {full_path_to}/phase2lecture/federal_grant_sb_loans.xml
+
+Xml.sax: https://docs.python.org/3.2/library/xml.sax.html
+
